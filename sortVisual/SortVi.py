@@ -18,7 +18,7 @@ YELLOW = (255,255,0)
 BLUE = (0,0,255)
 
 BGCOLOR = BLACK
-RATE = 0.12
+RATE = 0.12 ## SPEED of sorting, Slowing the code down
 
 class Game:
     def __init__(self):
